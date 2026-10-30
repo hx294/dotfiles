@@ -1,0 +1,15 @@
+# Secrets and machine-specific files
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.ssh/
+.netrc
+.git-credentials
+.zsh_history
+.viminfo
+*.swp
+*.swo
+*.log
+.DS_Store
