@@ -1,0 +1,14 @@
+git
+vim
+zsh
+zsh-common
+zsh-autosuggestions
+zsh-syntax-highlighting
+python3
+python3-venv
+python3.12-venv
+python3-pip-whl
+python3-setuptools-whl
+rsync
+curl
+openssh-client

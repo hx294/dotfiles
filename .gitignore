@@ -13,3 +13,14 @@
 *.swo
 *.log
 .DS_Store
+
+# Live credentials and local overrides
+xray/config.json
+*.local
+*.local.*
+auth.json
+credentials.json
+*.bak
+*.backup
+.proxy-config-backup/
+.migration-incoming/

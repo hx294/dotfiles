@@ -1,0 +1,15 @@
+package	installed_version
+git	1:2.43.0-1ubuntu7.3
+vim	2:9.1.0016-1ubuntu7.9
+zsh	5.9-6ubuntu2
+zsh-common	5.9-6ubuntu2
+zsh-autosuggestions	0.7.0-1
+zsh-syntax-highlighting	0.7.1-2
+python3	3.12.3-0ubuntu2.1
+python3-venv	3.12.3-0ubuntu2.1
+python3.12-venv	3.12.3-1ubuntu0.17
+python3-pip-whl	24.0+dfsg-1ubuntu1.3
+python3-setuptools-whl	68.1.2-2ubuntu1.2
+rsync	3.2.7-1ubuntu1.2
+curl	8.5.0-2ubuntu10.7
+openssh-client	1:9.6p1-3ubuntu13.14

@@ -1,0 +1,4 @@
+# Replace these values before use; no Git identity was configured on the server.
+[user]
+    name = YOUR_NAME
+    email = YOUR_EMAIL
